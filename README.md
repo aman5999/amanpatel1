@@ -62,7 +62,7 @@
     <!--contact us--via email-->
     <h1 style="border:2px solid rgb(0, 13, 255);text-align: center;">Contact Via Email</h1>
     <h4>Email Me--</h4>
-    <a href="mailto:patelaman5999@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png "style="width: 35px;height: 35px;"></a>
+    <a href="mailto:patelaman5999@gmail.com">SEND</a>
 
    <!--background images-->
    <h1 style="border:2px solid Tomato;text-align: center;">Entertainment</h1>
